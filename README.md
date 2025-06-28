@@ -239,10 +239,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 Support
 
 - **Issues**: [GitHub Issues](https://github.com/OBerger96/sortTF/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/OBerger96/sortTF/discussions)
 
 ## 🙏 Acknowledgments
 
 - Built with [HashiCorp HCL](https://github.com/hashicorp/hcl)
-- Inspired by `terraform fmt` and similar formatting tools
+- Inspired by `terraform fmt`
 - Thanks to the Go community for excellent tooling and libraries 
