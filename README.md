@@ -16,7 +16,7 @@ A powerful command-line tool for sorting and formatting Terraform (.tf) and Terr
 
 ### From Source
 ```bash
-git clone https://github.com/yourusername/sortTF.git
+git clone https://github.com/OBerger96/sortTF.git
 cd sortTF
 go build -o sorttf
 # Move to your PATH
@@ -238,8 +238,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-- **Issues**: [GitHub Issues](https://github.com/yourusername/sortTF/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/sortTF/discussions)
+- **Issues**: [GitHub Issues](https://github.com/OBerger96/sortTF/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/OBerger96/sortTF/discussions)
 
 ## 🙏 Acknowledgments
 
