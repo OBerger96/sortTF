@@ -23,11 +23,6 @@ go build -o sorttf
 sudo mv sorttf /usr/local/bin/
 ```
 
-### Using Go Install
-```bash
-go install github.com/OBerger96/sortTF@latest
-```
-
 ## 🛠️ Prerequisites
 
 - **Go 1.24.4+** (for building from source)
